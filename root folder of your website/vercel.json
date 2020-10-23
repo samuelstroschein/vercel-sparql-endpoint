@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "api/sparql.py": {
+        "includeFiles": "./api/ontology_pickled.pk"
+      }
+    }
+  }
