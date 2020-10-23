@@ -16,4 +16,4 @@ Your endpoint is now running under {yourDomain.vercel.com}/api/sparql
 
 
 ### License
-You can do whatever you want with the code but you have to provide credit when you are using the code for a course at the Vrije Universiteit Amsterdam. Just link to this repo! :)
+You can do whatever you want with the code but you have to provide credit when you are using the code for a course at the Vrije Universiteit Amsterdam. Just link to this repo and give as authors Samuel Stroschein, Satiga Godrie, Tim Brandt Corstius and Azra Cinar! :)
