@@ -1,4 +1,6 @@
-# Host your own SPARQL Endpoint on your website
+# Host your own SPARQL Endpoint on your website  
+
+The code is a serverless function which could theoretically run through any platform (AWS, Google Cloud etc.) but for ease of use everything is configured for vercel. So here is a step by step tutorial:  
 
 1. Host your website with [Vercel](https://vercel.com/). Don't worry you just give access to your GitHub Repo and within 1 minute your website is live!
 2. Pickle your ontology.ttl with the ttl_to_pickle.py script. 
